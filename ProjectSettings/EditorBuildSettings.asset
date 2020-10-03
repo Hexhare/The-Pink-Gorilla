@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_hans/Scenes/HansScene.unity
+    guid: 1a4ec5dd392ae304fac947149e4c57a7
   m_configObjects: {}
